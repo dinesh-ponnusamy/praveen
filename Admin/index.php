@@ -52,14 +52,14 @@ exit();
 				</a>
 
 			  	<a class="brand" href="index.html">
-			  		CCMS | Admin
+			  		CCSS | Admin
 			  	</a>
 
 				<div class="nav-collapse collapse navbar-inverse-collapse">
 				
 					<ul class="nav pull-right">
 
-						<li><a href="http://localhost/cms/">
+						<li><a href="../">
 						Back to Portal
 						
 						</a></li>
@@ -114,7 +114,7 @@ exit();
 		<div class="container">
 			 
 
-			<b class="copyright">&copy; 2019 CCMS </b> All rights reserved.
+			<b class="copyright">&copy; 2022 CCSS </b> All rights reserved.
 		</div>
 	</div>
 	<script src="scripts/jquery-1.9.1.min.js" type="text/javascript"></script>
